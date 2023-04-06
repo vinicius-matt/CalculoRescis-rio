@@ -1,0 +1,16 @@
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\bin\Debug\net5.0\teste_rescisão.exe
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\bin\Debug\net5.0\teste_rescisão.deps.json
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\bin\Debug\net5.0\teste_rescisão.runtimeconfig.json
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\bin\Debug\net5.0\teste_rescisão.runtimeconfig.dev.json
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\bin\Debug\net5.0\teste_rescisão.dll
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\bin\Debug\net5.0\teste_rescisão.pdb
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\obj\Debug\net5.0\teste_rescisão.csproj.AssemblyReference.cache
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\obj\Debug\net5.0\teste_rescisão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\obj\Debug\net5.0\teste_rescisão.AssemblyInfoInputs.cache
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\obj\Debug\net5.0\teste_rescisão.AssemblyInfo.cs
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\obj\Debug\net5.0\teste_rescisão.csproj.CoreCompileInputs.cache
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\obj\Debug\net5.0\teste_rescisão.dll
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\obj\Debug\net5.0\refint\teste_rescisão.dll
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\obj\Debug\net5.0\teste_rescisão.pdb
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\obj\Debug\net5.0\teste_rescisão.genruntimeconfig.cache
+C:\Users\Matheus.braz\source\repos\teste_rescisão\teste_rescisão\obj\Debug\net5.0\ref\teste_rescisão.dll

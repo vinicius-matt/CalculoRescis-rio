@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "teste_rescisão/1.0.0": {
+        "runtime": {
+          "teste_rescisão.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "teste_rescisão/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
